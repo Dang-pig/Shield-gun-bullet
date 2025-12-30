@@ -1,6 +1,8 @@
 Shield, Gun, Bullet
 ================================================
 
+![Demo](demogif.gif)
+
 Overview
 --------
 Shield, Gun, Bullet is a two-player, gesture-controlled combat game. 
@@ -78,3 +80,4 @@ Technical Controls
 * [P]: Pause Game
 * [H]: Return to Home/Reset Match
 * [Q]: Quit Application
+
